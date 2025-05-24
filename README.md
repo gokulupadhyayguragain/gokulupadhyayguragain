@@ -8,6 +8,16 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulupadhyayguragain&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulupadhyayguragain&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulupadhyayguragain&layout=compact&theme=algolia" />
+</p>
+
+---
+
 ### 👨‍💻 About Me
 🎓 **BSc in Computer Science & IT** (LBEF, Kathmandu)  
 🚀 Passionate about **Cloud Architecture**, **DevOps**, **Linux Systems**  
@@ -31,16 +41,6 @@
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulupadhyayguragain&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulupadhyayguragain&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulupadhyayguragain&layout=compact&theme=algolia" />
 </p>
 
 ---
