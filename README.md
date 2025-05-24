@@ -1,13 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=12F7D6&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Gokul+Upadhyay+Guragain;DevOps+%7C+Cloud+%7C+Linux+Enthusiast;Open+Source+Contributor;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif">
-</p>
-
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
