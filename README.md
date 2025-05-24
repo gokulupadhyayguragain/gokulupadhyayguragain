@@ -2,13 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=12F7D6&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Gokul+Upadhyay+Guragain;DevOps+%7C+Cloud+%7C+Linux+Enthusiast;Open+Source+Contributor;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 ---
+
+<!-- GitHub Stats (Stacked as 3 rows) -->
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulupadhyayguragain&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulupadhyayguragain&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulupadhyayguragain&layout=compact&theme=algolia" />
-</p>
+<div style="display: flex; flex-direction: column; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulupadhyayguragain&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulupadhyayguragain&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulupadhyayguragain&layout=compact&theme=algolia" alt="Top Languages" />
+</div>
 
 ---
 
